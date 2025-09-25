@@ -6,4 +6,12 @@ public class Calculator {
 		System.err.println("ERRORE LIEVE");
 	}
 
+
+
+    private void foo() {
+		System.out.println("HELLO");
+	}
+
+
+	
 }
