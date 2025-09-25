@@ -9,5 +9,10 @@ public class Calculator {
 	private void name() {
 		System.out.println("CIAO");
 	}
+
+    private void foo() {
+		System.out.println("HELLO");
+	}
+
 	
 }
