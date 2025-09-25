@@ -11,7 +11,7 @@ public class Calculator {
 	}
 
     private void foo() {
-		System.out.println("HELLO");
+		System.out.println("HELLO DARLING");
 	}
 
 	
