@@ -1,1 +1,5 @@
 code/MIO PROGETTO/prova2/target
+code/prova2509/target/
+*.class
+/code/prova2509/.settings
+/code/prova2509/.mvn
