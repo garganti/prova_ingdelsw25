@@ -6,9 +6,8 @@ public class Calculator {
 		System.err.println("ERRORE LIEVE");
 	}
 
-	private void SOMM() {
-		// TODO Auto-generated method stub
-
+	private void somma() {
+		System.out.println("questa la somma");
 	}
 	
 	private void name() {
